@@ -1,6 +1,2 @@
-fastapi==0.95.2
-uvicorn==0.22.0
-joblib==1.3.0
-numpy==1.25.0
-pydantic==1.10.7
-scikit-learn==1.3.0  # Only if your model is built using scikit-learn
+streamlit==1.26.0
+requests==2.31.0
