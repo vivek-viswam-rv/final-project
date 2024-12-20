@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/vivek/final_project/mlruns/0/39624576f9424819b0cbbb8e5d519bf3/artifacts
+end_time: 1734725055582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39624576f9424819b0cbbb8e5d519bf3
+run_name: big-mule-216
+run_uuid: 39624576f9424819b0cbbb8e5d519bf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734725051761
+status: 3
+tags: []
+user_id: vivek
